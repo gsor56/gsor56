@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/github/repo-size/gsor56/findflower?style=for-the-badge&color=6C63FF&label=Repo%20Size" />
 </p>
 
-<sub>Prefer a visual stats card? Try refreshing — <a href="https://github-readme-stats.vercel.app/api?username=gsor56&show_icons=true&theme=radical&hide_border=true">this link</a> is the fuller version, it just occasionally rate-limits.</sub>
+
 
 <br>
 
@@ -40,7 +40,6 @@
 <img src="https://raw.githubusercontent.com/gsor56/gsor56/output/github-contribution-grid-snake.svg" />
 </p>
 
-<sub>⚠️ Needs a one-time GitHub Action setup — see below.</sub>
 
 <br>
 
