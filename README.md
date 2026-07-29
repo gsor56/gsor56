@@ -10,39 +10,37 @@
 
 ## 🌸 What I'm Building
 
-<a href="https://github.com/gsor56/findflower">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=gsor56&repo=findflower&theme=radical&hide_border=true" />
-</a>
-
-**FindFlower** — an on-device flower identification tool. Point a camera, get a species name back in seconds, entirely client-side using TensorFlow.js. No uploads, no servers, no waiting.
+**[FindFlower](https://github.com/gsor56/findflower)** — an on-device flower identification tool. Point a camera, get a species name back in seconds, entirely client-side using TensorFlow.js. No uploads, no servers, no waiting.
 
 🌐 [Live Demo](https://findflower.cu.ma) · 📖 [How it Works](https://findflower.cu.ma/how.html)
 
-<br clear="left"/>
+**[RamdevSwami WhatsApp Bot](https://github.com/gsor56/ramdev-swami-whatsapp-bot)** — a fun side project: an arrogant, Socratic philosopher WhatsApp bot powered by Gemini 2.5 Flash and whatsapp-web.js.
+
 <br>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gsor56&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsor56&layout=compact&theme=radical&hide_border=true" />
+<img src="https://img.shields.io/github/followers/gsor56?label=Followers&style=for-the-badge&color=F75590&logo=github" />
+<img src="https://img.shields.io/github/stars/gsor56?label=Total%20Stars&style=for-the-badge&color=F75590&logo=github" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gsor56&theme=radical&hide_border=true" />
+<img src="https://img.shields.io/github/last-commit/gsor56/findflower?style=for-the-badge&color=6C63FF&label=Last%20Commit" />
+<img src="https://img.shields.io/github/repo-size/gsor56/findflower?style=for-the-badge&color=6C63FF&label=Repo%20Size" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gsor56&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+<sub>Prefer a visual stats card? Try refreshing — <a href="https://github-readme-stats.vercel.app/api?username=gsor56&show_icons=true&theme=radical&hide_border=true">this link</a> is the fuller version, it just occasionally rate-limits.</sub>
 
 <br>
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/gsor56/gsor56/output/github-contribution-grid-snake.svg" />
 </p>
+
+<sub>⚠️ Needs a one-time GitHub Action setup — see below.</sub>
 
 <br>
 
