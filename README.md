@@ -14,7 +14,7 @@
 
 🌐 [Live Demo](https://findflower.cu.ma) · 📖 [How it Works](https://findflower.cu.ma/how.html)
 
-**[RamdevSwami WhatsApp Bot](https://github.com/gsor56/ramdev-swami-whatsapp-bot)** — a fun side project: an arrogant, Socratic philosopher WhatsApp bot powered by Gemini 2.5 Flash and whatsapp-web.js.
+**[RamdevSwami WhatsApp Bot](https://github.com/gsor56/ramdev-swami-bot)** — a fun side project: an arrogant, Socratic philosopher WhatsApp bot powered by Gemini 2.5 Flash and whatsapp-web.js.
 
 <br>
 
