@@ -1,94 +1,65 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20gsor56&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20Building%20FindFlower&descAlignY=55&descSize=18" width="100%"/>
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75590&center=true&vCenter=true&width=435&lines=Student+developer+%F0%9F%8C%B1;Building+FindFlower+%F0%9F%8C%B8;Still+learning,+not+a+master+yet!;On-device+ML+enthusiast" alt="Typing SVG" />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20gsor56&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20Building%20FindFlower&descAlignY=55&descSize=18" width="100%"/>
 
-<div align="center">
-  <a href="https://findflower.cu.ma">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white&color=0D1117" alt="Website">
-  </a>
-  <a href="mailto:bhrchoudhury6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117" alt="Email">
-  </a>
-  <a href="https://t.me/Fokduk">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=0D1117" alt="Telegram">
-  </a>
-</div>
-
-<br>
-
-### 👨‍💻 About Me & What I'm Building
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" align="right" alt="Coding GIF" style="border-radius: 10px;" />
-
-- 🔭 Currently building **[FindFlower](https://github.com/gsor56/findflower)**, pushing the limits of on-device TF.js.
-- 🌱 Deep diving into **Computer Vision**, **Vision Transformers (ViTs)**, and edge AI.
-- 💡 Exploring LLM personas with my side project, the **RamdevSwami Bot**.
-- 🛠️ **Disclaimer:** I am very much still learning and experimenting. I'm not a master yet, but I'm enjoying the process!
-- ⚡ **Fun fact:** I love optimizing ML models to run directly in the browser—no servers, zero latency.
-- 📫 How to reach me: Drop an issue on any of my repos or DM me on Telegram!
-
-<br clear="both">
-
-### 🛠️ Tech Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,ts,tensorflow,pytorch,opencv,git,github,vscode,linux,docker&theme=dark&perline=7" alt="Skills" />
-</div>
-
-<br>
-
-### 🚀 Featured Projects
-
-<div align="center">
-  
-  [![FindFlower](https://github-readme-stats.vercel.app/api/pin/?username=gsor56&repo=findflower&theme=tokyonight&bg_color=0D1117&hide_border=true)](https://github.com/gsor56/findflower)
-  
-  [![RamdevSwami Bot](https://github-readme-stats.vercel.app/api/pin/?username=gsor56&repo=ramdev-swami-whatsapp-bot&theme=tokyonight&bg_color=0D1117&hide_border=true)](https://github.com/gsor56/ramdev-swami-whatsapp-bot)
+<img src="https://readme-typing-svg.demolab.com/?lines=Student+developer+%F0%9F%8C%B1;Building+FindFlower+%F0%9F%8C%B8;Learning+Computer+Vision+%26+ViTs+%F0%9F%A7%A0;On-device+ML+enthusiast;&font=Fira%20Code&center=true&width=440&height=45&duration=3000&pause=1000&color=F75590&vCenter=true&size=22" />
 
 </div>
 
 <br>
 
-### 📊 Developer Analytics Dashboard
+## 🌸 What I'm Building
 
-<div align="center">
-  
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=gsor56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  <br><br>
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsor56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gsor56)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsor56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gsor56)
-  
-  <br>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gsor56&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/gsor56)
-  
-  <br><br>
-  
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gsor56&bg_color=0D1117&color=6C63FF&line=F75590&point=FFFFFF&area=true&hide_border=true)](https://github.com/gsor56)
-  
-</div>
+**[FindFlower](https://github.com/gsor56/findflower)** — an on-device flower identification tool. Point a camera, get a species name back in seconds, entirely client-side using TensorFlow.js. No uploads, no servers, no waiting.
+
+🌐 [Live Demo](https://findflower.cu.ma) · 📖 [How it Works](https://findflower.cu.ma/how.html)
+
+**[RamdevSwami WhatsApp Bot](https://github.com/gsor56/ramdev-swami-whatsapp-bot)** — a fun side project: an arrogant, Socratic philosopher WhatsApp bot powered by Gemini 2.5 Flash and whatsapp-web.js.
 
 <br>
 
-### 🐍 Contribution Activity
+## 📊 GitHub Stats
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gsor56/gsor56/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gsor56/gsor56/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gsor56/gsor56/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+<p align="center">
+<img src="https://img.shields.io/github/followers/gsor56?label=Followers&style=for-the-badge&color=F75590&logo=github" />
+<img src="https://img.shields.io/github/stars/gsor56?label=Total%20Stars&style=for-the-badge&color=F75590&logo=github" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<p align="center">
+<img src="https://img.shields.io/github/last-commit/gsor56/findflower?style=for-the-badge&color=6C63FF&label=Last%20Commit" />
+<img src="https://img.shields.io/github/repo-size/gsor56/findflower?style=for-the-badge&color=6C63FF&label=Repo%20Size" />
+</p>
+
+<sub>Prefer a visual stats card? Try refreshing — <a href="https://github-readme-stats.vercel.app/api?username=gsor56&show_icons=true&theme=radical&hide_border=true">this link</a> is the fuller version, it just occasionally rate-limits.</sub>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/gsor56/gsor56/output/github-contribution-grid-snake.svg" />
+</p>
+
+<sub>⚠️ Needs a one-time GitHub Action setup — see below.</sub>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,js,html,css,py,git,github,vscode&theme=dark" />
+</p>
+
+<br>
+
+## 📫 Connect
+
+<p align="center">
+<a href="https://findflower.cu.ma"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
